@@ -33,3 +33,5 @@ ports:
     onOpen: ignore
   - port: 9900
     onOpen: ignore
+  - port: 23000
+    onOpen: ignore
